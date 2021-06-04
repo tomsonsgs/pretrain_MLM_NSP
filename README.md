@@ -1,6 +1,8 @@
 # pretrain_MLM_NSP
 pretrain code for MLM and NSP
 
-choose sentence option for pretrain MLM only for non-document tasks
+most code is from https://github.com/tahmedge/BERT-for-Answer-Selection
 
-choose document option for pretrain MLM and NSP for document tasks
+choose sentence option for pretrain MLM only for non-document tasks, such as text classification, semantic parsing...
+
+choose document option for pretrain MLM and NSP for document tasks, such as document classification, document relation extraction...
